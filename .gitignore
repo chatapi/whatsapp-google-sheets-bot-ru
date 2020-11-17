@@ -1,0 +1,9 @@
+.vscode/
+
+
+# Модули
+/node_modules/*
+/package-lock.json
+
+# Данные от Google
+keys.json
